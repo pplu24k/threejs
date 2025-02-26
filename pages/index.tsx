@@ -1,5 +1,5 @@
-function Homepage (){
-    return <>EEEEEEEe</>
+export default function Homepage (){
+    return <div>
+        EEEEEEEEEEE
+    </div>
 }
-
-export default Homepage
